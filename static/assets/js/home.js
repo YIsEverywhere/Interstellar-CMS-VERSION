@@ -183,7 +183,7 @@ const SplashT = [
   "Hi again",
   "Idk what to type anymore.",
   "Check out the settings page",
-  "I DIDN'T MAKE INTERSTELLAR",
+  "I DIDN'T MAKE INTERSTELLAR (in fact no one in this school made it, if anyone claims to have done so, they fakin",
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
